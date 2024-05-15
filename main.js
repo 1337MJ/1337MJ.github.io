@@ -1,9 +1,9 @@
-import { DragController } from "./drag-controller.js";
-import { FullscreenController } from "./fullscreen-controller.js";
-import { BatteryDisplay } from "./battery-display.js";
-import { DateDisplay } from "./date-display.js";
-import { TimeDisplay } from "./time-display.js";
-import { BackgroundController } from "./background-controller.js";
+import { DragController } from "https://github.com/1337MJ/skiovox-unfiltered-online/blob/main/drag-controller.js";
+import { FullscreenController } from "https://github.com/1337MJ/skiovox-unfiltered-online/blob/main/fullscreen-controller.js";
+import { BatteryDisplay } from "https://github.com/1337MJ/skiovox-unfiltered-online/blob/main/battery-display.js";
+import { DateDisplay } from "https://github.com/1337MJ/skiovox-unfiltered-online/blob/main/date-display.js";
+import { TimeDisplay } from "https://github.com/1337MJ/skiovox-unfiltered-online/blob/main/time-display.js";
+import { BackgroundController } from "https://github.com/1337MJ/skiovox-unfiltered-online/blob/main/background-controller.js";
 
 const WIFI_URL = "chrome://network/#select";
 const BLUETOOTH_URL = "chrome://bluetooth-pairing";
